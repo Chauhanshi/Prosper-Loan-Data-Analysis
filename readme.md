@@ -14,6 +14,9 @@
 >- LoanOriginationQuarter : Quarter of the month when loan was originated
 >- Term : Length of loan expressed in months
 
+## Files in this repository
+>- `exploration_Loan_Data.ipynb` : It has all the exploratory data analysis.
+>- `slide_deck_loan.ipynb` : It has the explainatory data analysis i.e final presentation. 
 
 ## Summary of Findings
 
