@@ -25,7 +25,7 @@
 >- Most loan status in this data set is Current which means most loan are in current term.
 >- most of the loan taken are of small amount between $1000 to $10000.
 >- In Quarter 4 of 2013 , most number of loans are given followed by Q1 2014 and Q3 2013.
->- Most people who are taking loans fall in income-range between $25,000 to $74,999.
+>- Most people taking loans fall in income-range between $25,000 to $74,999.
 >- Small loans are tend to be cancelled most.
 >- Higher loan amount loan seems to have higher chances that customer will not pay before due date.
 >- The APR in Q1 2014 is minimum and this may be the reason why most of the loans are taken during this time.
